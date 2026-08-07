@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # yt-pipeline
 
 Full YouTube processing pipeline that fetches the transcript, summarizes it, extracts key insights, and saves both the raw transcript and a distilled note.
