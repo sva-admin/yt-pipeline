@@ -33,6 +33,10 @@ Just ask. The skill picks up phrasing like the triggers listed at the top of
 
 Learn free at https://loop.sv-academy.org/tutorials
 
+## License
+
+MIT. See [LICENSE](LICENSE).
+
 ---
 
 More skills: https://github.com/sva-admin/claude-skills
